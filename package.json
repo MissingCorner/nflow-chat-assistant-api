@@ -59,7 +59,7 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.1",
     "connect-redis": "^8.1.0",
-    "express-session": "^1.18.1",
+    "express-session": "^1.18.2",
     "ioredis": "^5.6.1",
     "openai": "^4.91.1",
     "openapi-to-functions": "^0.0.11",
